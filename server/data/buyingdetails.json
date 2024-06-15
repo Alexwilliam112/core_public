@@ -1,0 +1,415 @@
+[
+    {
+        "quantity": 70,
+        "price": 36.12,
+        "ingredientName": "Oregano",
+        "unit": "Kilogram",
+        "ExpenseId": 1
+    },
+    {
+        "quantity": 79,
+        "price": 14.6,
+        "ingredientName": "Turmeric",
+        "unit": "Kilogram",
+        "ExpenseId": 1
+    },
+    {
+        "quantity": 6,
+        "price": 13.92,
+        "ingredientName": "Turmeric",
+        "unit": "Kilogram",
+        "ExpenseId": 1
+    },
+    {
+        "quantity": 64,
+        "price": 33.88,
+        "ingredientName": "Cinnamon",
+        "unit": "Kilogram",
+        "ExpenseId": 2
+    },
+    {
+        "quantity": 88,
+        "price": 40.08,
+        "ingredientName": "Oregano",
+        "unit": "Kilogram",
+        "ExpenseId": 2
+    },
+    {
+        "quantity": 91,
+        "price": 33.67,
+        "ingredientName": "Coriander",
+        "unit": "Kilogram",
+        "ExpenseId": 2
+    },
+    {
+        "quantity": 53,
+        "price": 47.92,
+        "ingredientName": "Turmeric",
+        "unit": "Kilogram",
+        "ExpenseId": 3
+    },
+    {
+        "quantity": 43,
+        "price": 34.29,
+        "ingredientName": "Pepper",
+        "unit": "Kilogram",
+        "ExpenseId": 3
+    },
+    {
+        "quantity": 48,
+        "price": 25.25,
+        "ingredientName": "Sugar",
+        "unit": "Kilogram",
+        "ExpenseId": 3
+    },
+    {
+        "quantity": 23,
+        "price": 12.25,
+        "ingredientName": "Cinnamon",
+        "unit": "Kilogram",
+        "ExpenseId": 4
+    },
+    {
+        "quantity": 44,
+        "price": 45.59,
+        "ingredientName": "Cumin",
+        "unit": "Kilogram",
+        "ExpenseId": 4
+    },
+    {
+        "quantity": 90,
+        "price": 19.77,
+        "ingredientName": "Cinnamon",
+        "unit": "Kilogram",
+        "ExpenseId": 4
+    },
+    {
+        "quantity": 50,
+        "price": 40.39,
+        "ingredientName": "Flour",
+        "unit": "Kilogram",
+        "ExpenseId": 5
+    },
+    {
+        "quantity": 44,
+        "price": 7.03,
+        "ingredientName": "Sugar",
+        "unit": "Kilogram",
+        "ExpenseId": 5
+    },
+    {
+        "quantity": 9,
+        "price": 7.29,
+        "ingredientName": "Pepper",
+        "unit": "Kilogram",
+        "ExpenseId": 5
+    },
+    {
+        "quantity": 47,
+        "price": 42.83,
+        "ingredientName": "Flour",
+        "unit": "Kilogram",
+        "ExpenseId": 6
+    },
+    {
+        "quantity": 29,
+        "price": 24.65,
+        "ingredientName": "Coriander",
+        "unit": "Kilogram",
+        "ExpenseId": 6
+    },
+    {
+        "quantity": 20,
+        "price": 16.2,
+        "ingredientName": "Sugar",
+        "unit": "Kilogram",
+        "ExpenseId": 6
+    },
+    {
+        "quantity": 49,
+        "price": 10.25,
+        "ingredientName": "Pepper",
+        "unit": "Kilogram",
+        "ExpenseId": 7
+    },
+    {
+        "quantity": 46,
+        "price": 48.98,
+        "ingredientName": "Salt",
+        "unit": "Kilogram",
+        "ExpenseId": 7
+    },
+    {
+        "quantity": 92,
+        "price": 19.83,
+        "ingredientName": "Rice",
+        "unit": "Kilogram",
+        "ExpenseId": 7
+    },
+    {
+        "quantity": 11,
+        "price": 4.56,
+        "ingredientName": "Sugar",
+        "unit": "Kilogram",
+        "ExpenseId": 8
+    },
+    {
+        "quantity": 67,
+        "price": 23.11,
+        "ingredientName": "Rice",
+        "unit": "Kilogram",
+        "ExpenseId": 8
+    },
+    {
+        "quantity": 53,
+        "price": 26.51,
+        "ingredientName": "Cinnamon",
+        "unit": "Kilogram",
+        "ExpenseId": 8
+    },
+    {
+        "quantity": 83,
+        "price": 2.99,
+        "ingredientName": "Pepper",
+        "unit": "Kilogram",
+        "ExpenseId": 9
+    },
+    {
+        "quantity": 45,
+        "price": 29.15,
+        "ingredientName": "Cumin",
+        "unit": "Kilogram",
+        "ExpenseId": 9
+    },
+    {
+        "quantity": 99,
+        "price": 1.87,
+        "ingredientName": "Cumin",
+        "unit": "Kilogram",
+        "ExpenseId": 9
+    },
+    {
+        "quantity": 76,
+        "price": 37.09,
+        "ingredientName": "Rice",
+        "unit": "Kilogram",
+        "ExpenseId": 10
+    },
+    {
+        "quantity": 97,
+        "price": 32.12,
+        "ingredientName": "Rice",
+        "unit": "Kilogram",
+        "ExpenseId": 10
+    },
+    {
+        "quantity": 72,
+        "price": 3.87,
+        "ingredientName": "Flour",
+        "unit": "Kilogram",
+        "ExpenseId": 10
+    },
+    {
+        "quantity": 65,
+        "price": 30.17,
+        "ingredientName": "Sugar",
+        "unit": "Kilogram",
+        "ExpenseId": 11
+    },
+    {
+        "quantity": 35,
+        "price": 35.43,
+        "ingredientName": "Cinnamon",
+        "unit": "Kilogram",
+        "ExpenseId": 11
+    },
+    {
+        "quantity": 85,
+        "price": 28.96,
+        "ingredientName": "Pepper",
+        "unit": "Kilogram",
+        "ExpenseId": 11
+    },
+    {
+        "quantity": 24,
+        "price": 45.54,
+        "ingredientName": "Turmeric",
+        "unit": "Kilogram",
+        "ExpenseId": 12
+    },
+    {
+        "quantity": 82,
+        "price": 26.18,
+        "ingredientName": "Coriander",
+        "unit": "Kilogram",
+        "ExpenseId": 12
+    },
+    {
+        "quantity": 26,
+        "price": 5.14,
+        "ingredientName": "Pepper",
+        "unit": "Kilogram",
+        "ExpenseId": 12
+    },
+    {
+        "quantity": 53,
+        "price": 42.26,
+        "ingredientName": "Coriander",
+        "unit": "Kilogram",
+        "ExpenseId": 13
+    },
+    {
+        "quantity": 87,
+        "price": 13.67,
+        "ingredientName": "Cumin",
+        "unit": "Kilogram",
+        "ExpenseId": 13
+    },
+    {
+        "quantity": 72,
+        "price": 34.51,
+        "ingredientName": "Cinnamon",
+        "unit": "Kilogram",
+        "ExpenseId": 13
+    },
+    {
+        "quantity": 93,
+        "price": 10.45,
+        "ingredientName": "Cumin",
+        "unit": "Kilogram",
+        "ExpenseId": 14
+    },
+    {
+        "quantity": 42,
+        "price": 32.28,
+        "ingredientName": "Rice",
+        "unit": "Kilogram",
+        "ExpenseId": 14
+    },
+    {
+        "quantity": 97,
+        "price": 32.12,
+        "ingredientName": "Rice",
+        "unit": "Kilogram",
+        "ExpenseId": 15
+    },
+    {
+        "quantity": 66,
+        "price": 22.39,
+        "ingredientName": "Oregano",
+        "unit": "Kilogram",
+        "ExpenseId": 15
+    },
+    {
+        "quantity": 63,
+        "price": 45.05,
+        "ingredientName": "Oregano",
+        "unit": "Kilogram",
+        "ExpenseId": 15
+    },
+    {
+        "quantity": 20,
+        "price": 35.43,
+        "ingredientName": "Cinnamon",
+        "unit": "Kilogram",
+        "ExpenseId": 16
+    },
+    {
+        "quantity": 96,
+        "price": 42.77,
+        "ingredientName": "Rice",
+        "unit": "Kilogram",
+        "ExpenseId": 16
+    },
+    {
+        "quantity": 56,
+        "price": 19.85,
+        "ingredientName": "Salt",
+        "unit": "Kilogram",
+        "ExpenseId": 16
+    },
+    {
+        "quantity": 61,
+        "price": 1.94,
+        "ingredientName": "Oregano",
+        "unit": "Kilogram",
+        "ExpenseId": 17
+    },
+    {
+        "quantity": 8,
+        "price": 25.27,
+        "ingredientName": "Salt",
+        "unit": "Kilogram",
+        "ExpenseId": 17
+    },
+    {
+        "quantity": 60,
+        "price": 45.83,
+        "ingredientName": "Turmeric",
+        "unit": "Kilogram",
+        "ExpenseId": 17
+    },
+    {
+        "quantity": 76,
+        "price": 17.42,
+        "ingredientName": "Sugar",
+        "unit": "Kilogram",
+        "ExpenseId": 18
+    },
+    {
+        "quantity": 52,
+        "price": 0.59,
+        "ingredientName": "Pepper",
+        "unit": "Kilogram",
+        "ExpenseId": 18
+    },
+    {
+        "quantity": 13,
+        "price": 1.58,
+        "ingredientName": "Rice",
+        "unit": "Kilogram",
+        "ExpenseId": 18
+    },
+    {
+        "quantity": 92,
+        "price": 9.51,
+        "ingredientName": "Sugar",
+        "unit": "Kilogram",
+        "ExpenseId": 19
+    },
+    {
+        "quantity": 65,
+        "price": 22.28,
+        "ingredientName": "Sugar",
+        "unit": "Kilogram",
+        "ExpenseId": 19
+    },
+    {
+        "quantity": 60,
+        "price": 35.44,
+        "ingredientName": "Oregano",
+        "unit": "Kilogram",
+        "ExpenseId": 19
+    },
+    {
+        "quantity": 89,
+        "price": 25.71,
+        "ingredientName": "Turmeric",
+        "unit": "Kilogram",
+        "ExpenseId": 20
+    },
+    {
+        "quantity": 49,
+        "price": 38.88,
+        "ingredientName": "Coriander",
+        "unit": "Kilogram",
+        "ExpenseId": 20
+    },
+    {
+        "quantity": 3,
+        "price": 27.06,
+        "ingredientName": "Oregano",
+        "unit": "Kilogram",
+        "ExpenseId": 20
+    }
+]

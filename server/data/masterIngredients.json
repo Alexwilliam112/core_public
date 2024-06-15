@@ -1,0 +1,17 @@
+[
+    {
+        "ingredientName": "Indomie saset",
+        "unit": "Piece",
+        "updatedBy": "Admin_dev"
+    },
+    {
+        "ingredientName": "Beras",
+        "unit": "Kilogram",
+        "updatedBy": "Admin_dev"
+    },
+    {
+        "ingredientName": "Micin",
+        "unit": "Gram",
+        "updatedBy": "Admin_dev"
+    }
+]

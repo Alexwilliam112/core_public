@@ -1,0 +1,162 @@
+[
+    {
+        "employeeName": "Admin_dev",
+        "salaryPaid": 0,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 1,
+        "PayId": 1
+    },
+    {
+        "employeeName": "John Wick",
+        "salaryPaid": 5600000,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 2,
+        "PayId": 1
+    },
+    {
+        "employeeName": "Gerard Butler",
+        "salaryPaid": 6900000,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 3,
+        "PayId": 1
+    },
+    {
+        "employeeName": "Jane Doe",
+        "salaryPaid": 9300000,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 4,
+        "PayId": 1
+    },
+    {
+        "employeeName": "Admin_dev",
+        "salaryPaid": 0,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 1,
+        "PayId": 2
+    },
+    {
+        "employeeName": "John Wick",
+        "salaryPaid": 5600000,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 2,
+        "PayId": 2
+    },
+    {
+        "employeeName": "Gerard Butler",
+        "salaryPaid": 6900000,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 3,
+        "PayId": 2
+    },
+    {
+        "employeeName": "Jane Doe",
+        "salaryPaid": 9300000,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 4,
+        "PayId": 2
+    },
+    {
+        "employeeName": "Admin_dev",
+        "salaryPaid": 0,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 1,
+        "PayId": 3
+    },
+    {
+        "employeeName": "John Wick",
+        "salaryPaid": 5600000,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 2,
+        "PayId": 3
+    },
+    {
+        "employeeName": "Gerard Butler",
+        "salaryPaid": 6900000,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 3,
+        "PayId": 3
+    },
+    {
+        "employeeName": "Jane Doe",
+        "salaryPaid": 9300000,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 4,
+        "PayId": 3
+    },
+    {
+        "employeeName": "Admin_dev",
+        "salaryPaid": 0,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 1,
+        "PayId": 4
+    },
+    {
+        "employeeName": "John Wick",
+        "salaryPaid": 5600000,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 2,
+        "PayId": 4
+    },
+    {
+        "employeeName": "Gerard Butler",
+        "salaryPaid": 6900000,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 3,
+        "PayId": 4
+    },
+    {
+        "employeeName": "Jane Doe",
+        "salaryPaid": 9300000,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 4,
+        "PayId": 4
+    },
+    {
+        "employeeName": "Admin_dev",
+        "salaryPaid": 0,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 1,
+        "PayId": 5
+    },
+    {
+        "employeeName": "John Wick",
+        "salaryPaid": 5600000,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 2,
+        "PayId": 5
+    },
+    {
+        "employeeName": "Gerard Butler",
+        "salaryPaid": 6900000,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 3,
+        "PayId": 5
+    },
+    {
+        "employeeName": "Jane Doe",
+        "salaryPaid": 9300000,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "EmploymentId": 4,
+        "PayId": 5
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "quantity": 0.8,
+        "MenuId": 1,
+        "IngredientId": 2
+    },
+    {
+        "quantity": 1.5,
+        "MenuId": 1,
+        "IngredientId": 3
+    },
+    {
+        "quantity": 1,
+        "MenuId": 2,
+        "IngredientId": 1
+    }
+]

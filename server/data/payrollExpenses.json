@@ -1,0 +1,37 @@
+[
+    {
+        "date": "2024-01-01",
+        "amount": 21800000,
+        "docStatus": "Posted",
+        "description": "lorem ipsum sit dolor amet.",
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-02-03",
+        "amount": 21800000,
+        "docStatus": "Posted",
+        "description": "lorem ipsum sit dolor amet.",
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-03-02",
+        "amount": 21800000,
+        "docStatus": "Posted",
+        "description": "lorem ipsum sit dolor amet.",
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-04-01",
+        "amount": 21800000,
+        "docStatus": "Posted",
+        "description": "lorem ipsum sit dolor amet.",
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-05-02",
+        "amount": 21800000,
+        "docStatus": "Posted",
+        "description": "lorem ipsum sit dolor amet.",
+        "createdBy": "Admin_dev"
+    }
+]

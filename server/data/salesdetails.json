@@ -1,0 +1,1802 @@
+[
+    {
+        "menuName": "Nasi Lemak",
+        "price": 300,
+        "quantity": 1,
+        "SalesId": 1
+    },
+    {
+        "menuName": "Teh Tarik",
+        "price": 150,
+        "quantity": 1,
+        "SalesId": 1
+    },
+    {
+        "menuName": "Roti Canai",
+        "price": 400,
+        "quantity": 1,
+        "SalesId": 2
+    },
+    {
+        "menuName": "Kopi O",
+        "price": 320,
+        "quantity": 1,
+        "SalesId": 2
+    },
+    {
+        "menuName": "Mee Goreng",
+        "price": 200,
+        "quantity": 1,
+        "SalesId": 3
+    },
+    {
+        "menuName": "Sirap Bandung",
+        "price": 180,
+        "quantity": 1,
+        "SalesId": 3
+    },
+    {
+        "menuName": "Nasi Kerabu",
+        "price": 350,
+        "quantity": 1,
+        "SalesId": 4
+    },
+    {
+        "menuName": "Teh O",
+        "price": 260,
+        "quantity": 1,
+        "SalesId": 4
+    },
+    {
+        "menuName": "Nasi Lemak",
+        "price": 500,
+        "quantity": 1,
+        "SalesId": 5
+    },
+    {
+        "menuName": "Teh Tarik",
+        "price": 480,
+        "quantity": 1,
+        "SalesId": 5
+    },
+    {
+        "menuName": "Roti Canai",
+        "price": 300,
+        "quantity": 1,
+        "SalesId": 6
+    },
+    {
+        "menuName": "Kopi O",
+        "price": 260,
+        "quantity": 1,
+        "SalesId": 6
+    },
+    {
+        "menuName": "Mee Goreng",
+        "price": 250,
+        "quantity": 1,
+        "SalesId": 7
+    },
+    {
+        "menuName": "Sirap Bandung",
+        "price": 190,
+        "quantity": 1,
+        "SalesId": 7
+    },
+    {
+        "menuName": "Nasi Kerabu",
+        "price": 370,
+        "quantity": 1,
+        "SalesId": 8
+    },
+    {
+        "menuName": "Teh O",
+        "price": 300,
+        "quantity": 1,
+        "SalesId": 8
+    },
+    {
+        "menuName": "Nasi Lemak",
+        "price": 430,
+        "quantity": 1,
+        "SalesId": 9
+    },
+    {
+        "menuName": "Teh Tarik",
+        "price": 420,
+        "quantity": 1,
+        "SalesId": 9
+    },
+    {
+        "menuName": "Roti Canai",
+        "price": 360,
+        "quantity": 1,
+        "SalesId": 10
+    },
+    {
+        "menuName": "Kopi O",
+        "price": 360,
+        "quantity": 1,
+        "SalesId": 10
+    },
+    {
+        "menuName": "Mee Goreng",
+        "price": 150,
+        "quantity": 1,
+        "SalesId": 11
+    },
+    {
+        "menuName": "Sirap Bandung",
+        "price": 150,
+        "quantity": 1,
+        "SalesId": 11
+    },
+    {
+        "menuName": "Nasi Kerabu",
+        "price": 250,
+        "quantity": 1,
+        "SalesId": 12
+    },
+    {
+        "menuName": "Teh O",
+        "price": 300,
+        "quantity": 1,
+        "SalesId": 12
+    },
+    {
+        "menuName": "Nasi Lemak",
+        "price": 240,
+        "quantity": 1,
+        "SalesId": 13
+    },
+    {
+        "menuName": "Teh Tarik",
+        "price": 230,
+        "quantity": 1,
+        "SalesId": 13
+    },
+    {
+        "menuName": "Roti Canai",
+        "price": 450,
+        "quantity": 1,
+        "SalesId": 14
+    },
+    {
+        "menuName": "Kopi O",
+        "price": 460,
+        "quantity": 1,
+        "SalesId": 14
+    },
+    {
+        "menuName": "Mee Goreng",
+        "price": 350,
+        "quantity": 1,
+        "SalesId": 15
+    },
+    {
+        "menuName": "Sirap Bandung",
+        "price": 330,
+        "quantity": 1,
+        "SalesId": 15
+    },
+    {
+        "menuName": "Nasi Kerabu",
+        "price": 420,
+        "quantity": 1,
+        "SalesId": 16
+    },
+    {
+        "menuName": "Teh O",
+        "price": 370,
+        "quantity": 1,
+        "SalesId": 16
+    },
+    {
+        "menuName": "Nasi Lemak",
+        "price": 260,
+        "quantity": 1,
+        "SalesId": 17
+    },
+    {
+        "menuName": "Teh Tarik",
+        "price": 260,
+        "quantity": 1,
+        "SalesId": 17
+    },
+    {
+        "menuName": "Roti Canai",
+        "price": 300,
+        "quantity": 1,
+        "SalesId": 18
+    },
+    {
+        "menuName": "Kopi O",
+        "price": 350,
+        "quantity": 1,
+        "SalesId": 18
+    },
+    {
+        "menuName": "Mee Goreng",
+        "price": 500,
+        "quantity": 1,
+        "SalesId": 19
+    },
+    {
+        "menuName": "Sirap Bandung",
+        "price": 430,
+        "quantity": 1,
+        "SalesId": 19
+    },
+    {
+        "menuName": "Nasi Kerabu",
+        "price": 300,
+        "quantity": 1,
+        "SalesId": 20
+    },
+    {
+        "menuName": "Teh O",
+        "price": 300,
+        "quantity": 1,
+        "SalesId": 20
+    },
+    {
+        "menuName": "Nasi Lemak",
+        "price": 240,
+        "quantity": 1,
+        "SalesId": 21
+    },
+    {
+        "menuName": "Teh Tarik",
+        "price": 250,
+        "quantity": 1,
+        "SalesId": 21
+    },
+    {
+        "menuName": "Roti Canai",
+        "price": 400,
+        "quantity": 1,
+        "SalesId": 22
+    },
+    {
+        "menuName": "Kopi O",
+        "price": 380,
+        "quantity": 1,
+        "SalesId": 22
+    },
+    {
+        "menuName": "Mee Goreng",
+        "price": 350,
+        "quantity": 1,
+        "SalesId": 23
+    },
+    {
+        "menuName": "Sirap Bandung",
+        "price": 280,
+        "quantity": 1,
+        "SalesId": 23
+    },
+    {
+        "menuName": "Nasi Kerabu",
+        "price": 350,
+        "quantity": 1,
+        "SalesId": 24
+    },
+    {
+        "menuName": "Teh O",
+        "price": 350,
+        "quantity": 1,
+        "SalesId": 24
+    },
+    {
+        "menuName": "Nasi Lemak",
+        "price": 320,
+        "quantity": 1,
+        "SalesId": 25
+    },
+    {
+        "menuName": "Teh Tarik",
+        "price": 320,
+        "quantity": 1,
+        "SalesId": 25
+    },
+    {
+        "menuName": "Roti Canai",
+        "price": 460,
+        "quantity": 1,
+        "SalesId": 26
+    },
+    {
+        "menuName": "Kopi O",
+        "price": 410,
+        "quantity": 1,
+        "SalesId": 26
+    },
+    {
+        "menuName": "Mee Goreng",
+        "price": 280,
+        "quantity": 1,
+        "SalesId": 27
+    },
+    {
+        "menuName": "Sirap Bandung",
+        "price": 280,
+        "quantity": 1,
+        "SalesId": 27
+    },
+    {
+        "menuName": "Nasi Kerabu",
+        "price": 380,
+        "quantity": 1,
+        "SalesId": 28
+    },
+    {
+        "menuName": "Teh O",
+        "price": 370,
+        "quantity": 1,
+        "SalesId": 28
+    },
+    {
+        "menuName": "Nasi Lemak",
+        "price": 340,
+        "quantity": 1,
+        "SalesId": 29
+    },
+    {
+        "menuName": "Teh Tarik",
+        "price": 340,
+        "quantity": 1,
+        "SalesId": 29
+    },
+    {
+        "menuName": "Roti Canai",
+        "price": 300,
+        "quantity": 1,
+        "SalesId": 30
+    },
+    {
+        "menuName": "Kopi O",
+        "price": 290,
+        "quantity": 1,
+        "SalesId": 30
+    },
+    {
+        "menuName": "Nasi Goreng",
+        "price": 75,
+        "quantity": 2,
+        "SalesId": 31
+    },
+    {
+        "menuName": "Teh Tarik",
+        "price": 50,
+        "quantity": 1,
+        "SalesId": 31
+    },
+    {
+        "menuName": "Mie Goreng",
+        "price": 110,
+        "quantity": 2,
+        "SalesId": 32
+    },
+    {
+        "menuName": "Es Teh",
+        "price": 55,
+        "quantity": 2,
+        "SalesId": 32
+    },
+    {
+        "menuName": "Ayam Goreng",
+        "price": 150,
+        "quantity": 2,
+        "SalesId": 33
+    },
+    {
+        "menuName": "Soda Gembira",
+        "price": 75,
+        "quantity": 2,
+        "SalesId": 33
+    },
+    {
+        "menuName": "Bakso",
+        "price": 90,
+        "quantity": 2,
+        "SalesId": 34
+    },
+    {
+        "menuName": "Jus Jeruk",
+        "price": 90,
+        "quantity": 2,
+        "SalesId": 34
+    },
+    {
+        "menuName": "Nasi Campur",
+        "price": 105,
+        "quantity": 2,
+        "SalesId": 35
+    },
+    {
+        "menuName": "Kopi",
+        "price": 105,
+        "quantity": 2,
+        "SalesId": 35
+    },
+    {
+        "menuName": "Gado-gado",
+        "price": 85,
+        "quantity": 2,
+        "SalesId": 36
+    },
+    {
+        "menuName": "Teh Manis",
+        "price": 85,
+        "quantity": 2,
+        "SalesId": 36
+    },
+    {
+        "menuName": "Soto Ayam",
+        "price": 115,
+        "quantity": 2,
+        "SalesId": 37
+    },
+    {
+        "menuName": "Air Putih",
+        "price": 115,
+        "quantity": 2,
+        "SalesId": 37
+    },
+    {
+        "menuName": "Lontong",
+        "price": 95,
+        "quantity": 2,
+        "SalesId": 38
+    },
+    {
+        "menuName": "Es Jeruk",
+        "price": 95,
+        "quantity": 2,
+        "SalesId": 38
+    },
+    {
+        "menuName": "Mie Ayam",
+        "price": 125,
+        "quantity": 2,
+        "SalesId": 39
+    },
+    {
+        "menuName": "Kopi Hitam",
+        "price": 125,
+        "quantity": 2,
+        "SalesId": 39
+    },
+    {
+        "menuName": "Sate Ayam",
+        "price": 137.5,
+        "quantity": 2,
+        "SalesId": 40
+    },
+    {
+        "menuName": "Teh Manis",
+        "price": 137.5,
+        "quantity": 2,
+        "SalesId": 40
+    },
+    {
+        "menuName": "Nasi Uduk",
+        "price": 105,
+        "quantity": 2,
+        "SalesId": 41
+    },
+    {
+        "menuName": "Es Kopi",
+        "price": 105,
+        "quantity": 2,
+        "SalesId": 41
+    },
+    {
+        "menuName": "Nasi Kuning",
+        "price": 80,
+        "quantity": 2,
+        "SalesId": 42
+    },
+    {
+        "menuName": "Teh Botol",
+        "price": 80,
+        "quantity": 2,
+        "SalesId": 42
+    },
+    {
+        "menuName": "Ayam Penyet",
+        "price": 110,
+        "quantity": 2,
+        "SalesId": 43
+    },
+    {
+        "menuName": "Jus Alpukat",
+        "price": 110,
+        "quantity": 2,
+        "SalesId": 43
+    },
+    {
+        "menuName": "Tahu Sumedang",
+        "price": 140,
+        "quantity": 2,
+        "SalesId": 44
+    },
+    {
+        "menuName": "Es Kelapa",
+        "price": 140,
+        "quantity": 2,
+        "SalesId": 44
+    },
+    {
+        "menuName": "Ketoprak",
+        "price": 95,
+        "quantity": 2,
+        "SalesId": 45
+    },
+    {
+        "menuName": "Kopi Susu",
+        "price": 95,
+        "quantity": 2,
+        "SalesId": 45
+    },
+    {
+        "menuName": "Ikan Bakar",
+        "price": 112.5,
+        "quantity": 2,
+        "SalesId": 46
+    },
+    {
+        "menuName": "Teh Tarik",
+        "price": 112.5,
+        "quantity": 2,
+        "SalesId": 46
+    },
+    {
+        "menuName": "Bakmi",
+        "price": 85,
+        "quantity": 2,
+        "SalesId": 47
+    },
+    {
+        "menuName": "Es Jeruk",
+        "price": 85,
+        "quantity": 2,
+        "SalesId": 47
+    },
+    {
+        "menuName": "Sate Kambing",
+        "price": 120,
+        "quantity": 2,
+        "SalesId": 48
+    },
+    {
+        "menuName": "Air Mineral",
+        "price": 120,
+        "quantity": 2,
+        "SalesId": 48
+    },
+    {
+        "menuName": "Nasi Lemak",
+        "price": 100,
+        "quantity": 2,
+        "SalesId": 49
+    },
+    {
+        "menuName": "Teh Poci",
+        "price": 100,
+        "quantity": 2,
+        "SalesId": 49
+    },
+    {
+        "menuName": "Ayam Rica-rica",
+        "price": 130,
+        "quantity": 2,
+        "SalesId": 50
+    },
+    {
+        "menuName": "Es Timun",
+        "price": 130,
+        "quantity": 2,
+        "SalesId": 50
+    },
+    {
+        "menuName": "Sop Buntut",
+        "price": 105,
+        "quantity": 2,
+        "SalesId": 51
+    },
+    {
+        "menuName": "Kopi Tubruk",
+        "price": 105,
+        "quantity": 2,
+        "SalesId": 51
+    },
+    {
+        "menuName": "Nasi Gandul",
+        "price": 87.5,
+        "quantity": 2,
+        "SalesId": 52
+    },
+    {
+        "menuName": "Es Kelapa",
+        "price": 87.5,
+        "quantity": 2,
+        "SalesId": 52
+    },
+    {
+        "menuName": "Ayam Taliwang",
+        "price": 117.5,
+        "quantity": 2,
+        "SalesId": 53
+    },
+    {
+        "menuName": "Teh Tarik",
+        "price": 117.5,
+        "quantity": 2,
+        "SalesId": 53
+    },
+    {
+        "menuName": "Nasi Padang",
+        "price": 100,
+        "quantity": 2,
+        "SalesId": 54
+    },
+    {
+        "menuName": "Es Jeruk",
+        "price": 100,
+        "quantity": 2,
+        "SalesId": 54
+    },
+    {
+        "menuName": "Sate Sapi",
+        "price": 132.5,
+        "quantity": 2,
+        "SalesId": 55
+    },
+    {
+        "menuName": "Air Putih",
+        "price": 132.5,
+        "quantity": 2,
+        "SalesId": 55
+    },
+    {
+        "menuName": "Ikan Goreng",
+        "price": 90,
+        "quantity": 2,
+        "SalesId": 56
+    },
+    {
+        "menuName": "Teh Manis",
+        "price": 90,
+        "quantity": 2,
+        "SalesId": 56
+    },
+    {
+        "menuName": "Rendang",
+        "price": 120,
+        "quantity": 2,
+        "SalesId": 57
+    },
+    {
+        "menuName": "Kopi Tubruk",
+        "price": 120,
+        "quantity": 2,
+        "SalesId": 57
+    },
+    {
+        "menuName": "Nasi Bali",
+        "price": 110,
+        "quantity": 2,
+        "SalesId": 58
+    },
+    {
+        "menuName": "Es Kopi",
+        "price": 110,
+        "quantity": 2,
+        "SalesId": 58
+    },
+    {
+        "menuName": "Ayam Geprek",
+        "price": 92.5,
+        "quantity": 2,
+        "SalesId": 59
+    },
+    {
+        "menuName": "Teh Manis",
+        "price": 92.5,
+        "quantity": 2,
+        "SalesId": 59
+    },
+    {
+        "menuName": "Nasi Ayam",
+        "price": 130,
+        "quantity": 2,
+        "SalesId": 60
+    },
+    {
+        "menuName": "Es Timun",
+        "price": 130,
+        "quantity": 2,
+        "SalesId": 60
+    },
+    {
+        "menuName": "Nasi Goreng",
+        "price": 125,
+        "quantity": 2,
+        "SalesId": 61
+    },
+    {
+        "menuName": "Es Teh",
+        "price": 25,
+        "quantity": 2,
+        "SalesId": 61
+    },
+    {
+        "menuName": "Mie Goreng",
+        "price": 150,
+        "quantity": 2,
+        "SalesId": 62
+    },
+    {
+        "menuName": "Jus Jeruk",
+        "price": 30,
+        "quantity": 1,
+        "SalesId": 62
+    },
+    {
+        "menuName": "Ayam Bakar",
+        "price": 75,
+        "quantity": 2,
+        "SalesId": 63
+    },
+    {
+        "menuName": "Teh Manis",
+        "price": 10,
+        "quantity": 3,
+        "SalesId": 63
+    },
+    {
+        "menuName": "Gado-gado",
+        "price": 200,
+        "quantity": 2,
+        "SalesId": 64
+    },
+    {
+        "menuName": "Air Mineral",
+        "price": 50,
+        "quantity": 4,
+        "SalesId": 64
+    },
+    {
+        "menuName": "Nasi Padang",
+        "price": 110,
+        "quantity": 2,
+        "SalesId": 65
+    },
+    {
+        "menuName": "Teh Panas",
+        "price": 20,
+        "quantity": 1,
+        "SalesId": 65
+    },
+    {
+        "menuName": "Bakso",
+        "price": 90,
+        "quantity": 2,
+        "SalesId": 66
+    },
+    {
+        "menuName": "Soda Gembira",
+        "price": 20,
+        "quantity": 3,
+        "SalesId": 66
+    },
+    {
+        "menuName": "Sate Ayam",
+        "price": 160,
+        "quantity": 2,
+        "SalesId": 67
+    },
+    {
+        "menuName": "Es Kopi",
+        "price": 80,
+        "quantity": 1,
+        "SalesId": 67
+    },
+    {
+        "menuName": "Rendang",
+        "price": 140,
+        "quantity": 2,
+        "SalesId": 68
+    },
+    {
+        "menuName": "Es Teler",
+        "price": 50,
+        "quantity": 1,
+        "SalesId": 68
+    },
+    {
+        "menuName": "Soto Ayam",
+        "price": 250,
+        "quantity": 2,
+        "SalesId": 69
+    },
+    {
+        "menuName": "Air Kelapa",
+        "price": 125,
+        "quantity": 2,
+        "SalesId": 69
+    },
+    {
+        "menuName": "Nasi Uduk",
+        "price": 165,
+        "quantity": 2,
+        "SalesId": 70
+    },
+    {
+        "menuName": "Teh Tarik",
+        "price": 30,
+        "quantity": 1,
+        "SalesId": 70
+    },
+    {
+        "menuName": "Ikan Bakar",
+        "price": 105,
+        "quantity": 2,
+        "SalesId": 71
+    },
+    {
+        "menuName": "Jus Mangga",
+        "price": 50,
+        "quantity": 1,
+        "SalesId": 71
+    },
+    {
+        "menuName": "Pempek",
+        "price": 235,
+        "quantity": 2,
+        "SalesId": 72
+    },
+    {
+        "menuName": "Es Campur",
+        "price": 117.5,
+        "quantity": 2,
+        "SalesId": 72
+    },
+    {
+        "menuName": "Gudeg",
+        "price": 145,
+        "quantity": 2,
+        "SalesId": 73
+    },
+    {
+        "menuName": "Cendol",
+        "price": 72.5,
+        "quantity": 2,
+        "SalesId": 73
+    },
+    {
+        "menuName": "Nasi Kuning",
+        "price": 177.5,
+        "quantity": 2,
+        "SalesId": 74
+    },
+    {
+        "menuName": "Lemon Tea",
+        "price": 30,
+        "quantity": 1,
+        "SalesId": 74
+    },
+    {
+        "menuName": "Ayam Geprek",
+        "price": 210,
+        "quantity": 2,
+        "SalesId": 75
+    },
+    {
+        "menuName": "Es Timun",
+        "price": 105,
+        "quantity": 2,
+        "SalesId": 75
+    },
+    {
+        "menuName": "Kwetiau Goreng",
+        "price": 95,
+        "quantity": 2,
+        "SalesId": 76
+    },
+    {
+        "menuName": "Susu Jahe",
+        "price": 47.5,
+        "quantity": 2,
+        "SalesId": 76
+    },
+    {
+        "menuName": "Bebek Goreng",
+        "price": 250,
+        "quantity": 2,
+        "SalesId": 77
+    },
+    {
+        "menuName": "Es Cincau",
+        "price": 125,
+        "quantity": 2,
+        "SalesId": 77
+    },
+    {
+        "menuName": "Martabak",
+        "price": 137.5,
+        "quantity": 2,
+        "SalesId": 78
+    },
+    {
+        "menuName": "Kopi Hitam",
+        "price": 70,
+        "quantity": 1,
+        "SalesId": 78
+    },
+    {
+        "menuName": "Tahu Gejrot",
+        "price": 130,
+        "quantity": 2,
+        "SalesId": 79
+    },
+    {
+        "menuName": "Es Lemon",
+        "price": 65,
+        "quantity": 2,
+        "SalesId": 79
+    },
+    {
+        "menuName": "Sop Buntut",
+        "price": 170,
+        "quantity": 2,
+        "SalesId": 80
+    },
+    {
+        "menuName": "Jus Alpukat",
+        "price": 85,
+        "quantity": 2,
+        "SalesId": 80
+    },
+    {
+        "menuName": "Nasi Kebuli",
+        "price": 155,
+        "quantity": 2,
+        "SalesId": 81
+    },
+    {
+        "menuName": "Es Jeruk",
+        "price": 77.5,
+        "quantity": 2,
+        "SalesId": 81
+    },
+    {
+        "menuName": "Nasi Lemak",
+        "price": 115,
+        "quantity": 2,
+        "SalesId": 82
+    },
+    {
+        "menuName": "Teh Botol",
+        "price": 57.5,
+        "quantity": 2,
+        "SalesId": 82
+    },
+    {
+        "menuName": "Pecel Lele",
+        "price": 187.5,
+        "quantity": 2,
+        "SalesId": 83
+    },
+    {
+        "menuName": "Teh Poci",
+        "price": 93.75,
+        "quantity": 2,
+        "SalesId": 83
+    },
+    {
+        "menuName": "Lontong Sayur",
+        "price": 110,
+        "quantity": 2,
+        "SalesId": 84
+    },
+    {
+        "menuName": "Es Melon",
+        "price": 55,
+        "quantity": 2,
+        "SalesId": 84
+    },
+    {
+        "menuName": "Rawon",
+        "price": 180,
+        "quantity": 2,
+        "SalesId": 85
+    },
+    {
+        "menuName": "Jus Jambu",
+        "price": 90,
+        "quantity": 2,
+        "SalesId": 85
+    },
+    {
+        "menuName": "Nasi Liwet",
+        "price": 180,
+        "quantity": 2,
+        "SalesId": 86
+    },
+    {
+        "menuName": "Teh Jahe",
+        "price": 90,
+        "quantity": 2,
+        "SalesId": 86
+    },
+    {
+        "menuName": "Kerak Telor",
+        "price": 100,
+        "quantity": 2,
+        "SalesId": 87
+    },
+    {
+        "menuName": "Es Buah",
+        "price": 50,
+        "quantity": 2,
+        "SalesId": 87
+    },
+    {
+        "menuName": "Nasi Ayam",
+        "price": 235,
+        "quantity": 2,
+        "SalesId": 88
+    },
+    {
+        "menuName": "Es Sirup",
+        "price": 117.5,
+        "quantity": 2,
+        "SalesId": 88
+    },
+    {
+        "menuName": "Ayam Taliwang",
+        "price": 90,
+        "quantity": 2,
+        "SalesId": 89
+    },
+    {
+        "menuName": "Teh Manis",
+        "price": 45,
+        "quantity": 2,
+        "SalesId": 89
+    },
+    {
+        "menuName": "Sate Kambing",
+        "price": 90,
+        "quantity": 2,
+        "SalesId": 90
+    },
+    {
+        "menuName": "Es Teler",
+        "price": 45,
+        "quantity": 2,
+        "SalesId": 90
+    },
+    {
+        "menuName": "Nasi Goreng",
+        "price": 60,
+        "quantity": 2,
+        "SalesId": 91
+    },
+    {
+        "menuName": "Teh Tarik",
+        "price": 30,
+        "quantity": 2,
+        "SalesId": 91
+    },
+    {
+        "menuName": "Mie Goreng",
+        "price": 75,
+        "quantity": 2,
+        "SalesId": 92
+    },
+    {
+        "menuName": "Kopi",
+        "price": 38,
+        "quantity": 2,
+        "SalesId": 92
+    },
+    {
+        "menuName": "Ayam Goreng",
+        "price": 50,
+        "quantity": 2,
+        "SalesId": 93
+    },
+    {
+        "menuName": "Soda",
+        "price": 25,
+        "quantity": 2,
+        "SalesId": 93
+    },
+    {
+        "menuName": "Ikan Bakar",
+        "price": 100,
+        "quantity": 2,
+        "SalesId": 94
+    },
+    {
+        "menuName": "Jus Buah",
+        "price": 50,
+        "quantity": 2,
+        "SalesId": 94
+    },
+    {
+        "menuName": "Sate Ayam",
+        "price": 90,
+        "quantity": 2,
+        "SalesId": 95
+    },
+    {
+        "menuName": "Air Mineral",
+        "price": 45,
+        "quantity": 2,
+        "SalesId": 95
+    },
+    {
+        "menuName": "Rendang",
+        "price": 110,
+        "quantity": 2,
+        "SalesId": 96
+    },
+    {
+        "menuName": "Es Teh",
+        "price": 55,
+        "quantity": 2,
+        "SalesId": 96
+    },
+    {
+        "menuName": "Bakso",
+        "price": 125,
+        "quantity": 2,
+        "SalesId": 97
+    },
+    {
+        "menuName": "Cendol",
+        "price": 62,
+        "quantity": 2,
+        "SalesId": 97
+    },
+    {
+        "menuName": "Soto",
+        "price": 85,
+        "quantity": 2,
+        "SalesId": 98
+    },
+    {
+        "menuName": "Es Jeruk",
+        "price": 42,
+        "quantity": 2,
+        "SalesId": 98
+    },
+    {
+        "menuName": "Nasi Uduk",
+        "price": 105,
+        "quantity": 2,
+        "SalesId": 99
+    },
+    {
+        "menuName": "Kopi Susu",
+        "price": 52,
+        "quantity": 2,
+        "SalesId": 99
+    },
+    {
+        "menuName": "Bubur Ayam",
+        "price": 95,
+        "quantity": 2,
+        "SalesId": 100
+    },
+    {
+        "menuName": "Teh Manis",
+        "price": 47,
+        "quantity": 2,
+        "SalesId": 100
+    },
+    {
+        "menuName": "Lontong Sayur",
+        "price": 115,
+        "quantity": 2,
+        "SalesId": 101
+    },
+    {
+        "menuName": "Es Campur",
+        "price": 57,
+        "quantity": 2,
+        "SalesId": 101
+    },
+    {
+        "menuName": "Pempek",
+        "price": 70,
+        "quantity": 2,
+        "SalesId": 102
+    },
+    {
+        "menuName": "Susu Jahe",
+        "price": 35,
+        "quantity": 2,
+        "SalesId": 102
+    },
+    {
+        "menuName": "Gudeg",
+        "price": 80,
+        "quantity": 2,
+        "SalesId": 103
+    },
+    {
+        "menuName": "Es Milo",
+        "price": 40,
+        "quantity": 2,
+        "SalesId": 103
+    },
+    {
+        "menuName": "Sop Buntut",
+        "price": 150,
+        "quantity": 2,
+        "SalesId": 104
+    },
+    {
+        "menuName": "Air Kelapa",
+        "price": 75,
+        "quantity": 2,
+        "SalesId": 104
+    },
+    {
+        "menuName": "Nasi Kuning",
+        "price": 135,
+        "quantity": 2,
+        "SalesId": 105
+    },
+    {
+        "menuName": "Es Teh Manis",
+        "price": 67,
+        "quantity": 2,
+        "SalesId": 105
+    },
+    {
+        "menuName": "Bakmie",
+        "price": 140,
+        "quantity": 2,
+        "SalesId": 106
+    },
+    {
+        "menuName": "Teh Tawar",
+        "price": 70,
+        "quantity": 2,
+        "SalesId": 106
+    },
+    {
+        "menuName": "Rawon",
+        "price": 130,
+        "quantity": 2,
+        "SalesId": 107
+    },
+    {
+        "menuName": "Jus Apel",
+        "price": 65,
+        "quantity": 2,
+        "SalesId": 107
+    },
+    {
+        "menuName": "Capcay",
+        "price": 95,
+        "quantity": 2,
+        "SalesId": 108
+    },
+    {
+        "menuName": "Es Mangga",
+        "price": 47,
+        "quantity": 2,
+        "SalesId": 108
+    },
+    {
+        "menuName": "Gado-Gado",
+        "price": 155,
+        "quantity": 2,
+        "SalesId": 109
+    },
+    {
+        "menuName": "Es Cincau",
+        "price": 77,
+        "quantity": 2,
+        "SalesId": 109
+    },
+    {
+        "menuName": "Nasi Pecel",
+        "price": 165,
+        "quantity": 2,
+        "SalesId": 110
+    },
+    {
+        "menuName": "Jus Jeruk",
+        "price": 82,
+        "quantity": 2,
+        "SalesId": 110
+    },
+    {
+        "menuName": "Ayam Bakar",
+        "price": 110,
+        "quantity": 2,
+        "SalesId": 111
+    },
+    {
+        "menuName": "Air Putih",
+        "price": 55,
+        "quantity": 2,
+        "SalesId": 111
+    },
+    {
+        "menuName": "Nasi Campur",
+        "price": 120,
+        "quantity": 2,
+        "SalesId": 112
+    },
+    {
+        "menuName": "Kopi Hitam",
+        "price": 60,
+        "quantity": 2,
+        "SalesId": 112
+    },
+    {
+        "menuName": "Bihun Goreng",
+        "price": 100,
+        "quantity": 2,
+        "SalesId": 113
+    },
+    {
+        "menuName": "Teh Botol",
+        "price": 50,
+        "quantity": 2,
+        "SalesId": 113
+    },
+    {
+        "menuName": "Kerang Rebus",
+        "price": 125,
+        "quantity": 2,
+        "SalesId": 114
+    },
+    {
+        "menuName": "Es Kelapa Muda",
+        "price": 62,
+        "quantity": 2,
+        "SalesId": 114
+    },
+    {
+        "menuName": "Tahu Gejrot",
+        "price": 135,
+        "quantity": 2,
+        "SalesId": 115
+    },
+    {
+        "menuName": "Es Alpukat",
+        "price": 67,
+        "quantity": 2,
+        "SalesId": 115
+    },
+    {
+        "menuName": "Ketoprak",
+        "price": 115,
+        "quantity": 2,
+        "SalesId": 116
+    },
+    {
+        "menuName": "Susu Coklat",
+        "price": 57,
+        "quantity": 2,
+        "SalesId": 116
+    },
+    {
+        "menuName": "Cumi Bakar",
+        "price": 150,
+        "quantity": 2,
+        "SalesId": 117
+    },
+    {
+        "menuName": "Jus Buah Naga",
+        "price": 75,
+        "quantity": 2,
+        "SalesId": 117
+    },
+    {
+        "menuName": "Rujak",
+        "price": 170,
+        "quantity": 2,
+        "SalesId": 118
+    },
+    {
+        "menuName": "Teh Hijau",
+        "price": 85,
+        "quantity": 2,
+        "SalesId": 118
+    },
+    {
+        "menuName": "Ikan Goreng",
+        "price": 155,
+        "quantity": 2,
+        "SalesId": 119
+    },
+    {
+        "menuName": "Air Tebu",
+        "price": 77,
+        "quantity": 2,
+        "SalesId": 119
+    },
+    {
+        "menuName": "Kambing Guling",
+        "price": 160,
+        "quantity": 2,
+        "SalesId": 120
+    },
+    {
+        "menuName": "Es Jeruk Manis",
+        "price": 80,
+        "quantity": 2,
+        "SalesId": 120
+    },
+    {
+        "menuName": "Nasi Goreng",
+        "price": 75,
+        "quantity": 1,
+        "SalesId": 121
+    },
+    {
+        "menuName": "Teh Tarik",
+        "price": 75,
+        "quantity": 1,
+        "SalesId": 121
+    },
+    {
+        "menuName": "Mie Goreng",
+        "price": 100,
+        "quantity": 1,
+        "SalesId": 122
+    },
+    {
+        "menuName": "Es Jeruk",
+        "price": 100,
+        "quantity": 1,
+        "SalesId": 122
+    },
+    {
+        "menuName": "Ayam Goreng",
+        "price": 90,
+        "quantity": 1,
+        "SalesId": 123
+    },
+    {
+        "menuName": "Kopi",
+        "price": 85,
+        "quantity": 1,
+        "SalesId": 123
+    },
+    {
+        "menuName": "Soto Ayam",
+        "price": 125,
+        "quantity": 1,
+        "SalesId": 124
+    },
+    {
+        "menuName": "Air Mineral",
+        "price": 100,
+        "quantity": 1,
+        "SalesId": 124
+    },
+    {
+        "menuName": "Nasi Lemak",
+        "price": 65,
+        "quantity": 1,
+        "SalesId": 125
+    },
+    {
+        "menuName": "Teh Ais",
+        "price": 65,
+        "quantity": 1,
+        "SalesId": 125
+    },
+    {
+        "menuName": "Bakso",
+        "price": 105,
+        "quantity": 1,
+        "SalesId": 126
+    },
+    {
+        "menuName": "Es Teh",
+        "price": 105,
+        "quantity": 1,
+        "SalesId": 126
+    },
+    {
+        "menuName": "Rendang",
+        "price": 95,
+        "quantity": 1,
+        "SalesId": 127
+    },
+    {
+        "menuName": "Susu Kocok",
+        "price": 95,
+        "quantity": 1,
+        "SalesId": 127
+    },
+    {
+        "menuName": "Satay",
+        "price": 80,
+        "quantity": 1,
+        "SalesId": 128
+    },
+    {
+        "menuName": "Air Sirap",
+        "price": 80,
+        "quantity": 1,
+        "SalesId": 128
+    },
+    {
+        "menuName": "Gado-Gado",
+        "price": 110,
+        "quantity": 1,
+        "SalesId": 129
+    },
+    {
+        "menuName": "Jus Alpukat",
+        "price": 110,
+        "quantity": 1,
+        "SalesId": 129
+    },
+    {
+        "menuName": "Nasi Campur",
+        "price": 70,
+        "quantity": 1,
+        "SalesId": 130
+    },
+    {
+        "menuName": "Soda Gembira",
+        "price": 70,
+        "quantity": 1,
+        "SalesId": 130
+    },
+    {
+        "menuName": "Pecel Lele",
+        "price": 90,
+        "quantity": 1,
+        "SalesId": 131
+    },
+    {
+        "menuName": "Kopi Susu",
+        "price": 90,
+        "quantity": 1,
+        "SalesId": 131
+    },
+    {
+        "menuName": "Nasi Kuning",
+        "price": 125,
+        "quantity": 1,
+        "SalesId": 132
+    },
+    {
+        "menuName": "Es Kelapa",
+        "price": 125,
+        "quantity": 1,
+        "SalesId": 132
+    },
+    {
+        "menuName": "Nasi Padang",
+        "price": 85,
+        "quantity": 1,
+        "SalesId": 133
+    },
+    {
+        "menuName": "Es Teh Manis",
+        "price": 85,
+        "quantity": 1,
+        "SalesId": 133
+    },
+    {
+        "menuName": "Nasi Uduk",
+        "price": 115,
+        "quantity": 1,
+        "SalesId": 134
+    },
+    {
+        "menuName": "Es Jeruk Nipis",
+        "price": 115,
+        "quantity": 1,
+        "SalesId": 134
+    },
+    {
+        "menuName": "Mie Ayam",
+        "price": 80,
+        "quantity": 1,
+        "SalesId": 135
+    },
+    {
+        "menuName": "Es Teh Tawar",
+        "price": 75,
+        "quantity": 1,
+        "SalesId": 135
+    },
+    {
+        "menuName": "Sate Ayam",
+        "price": 120,
+        "quantity": 1,
+        "SalesId": 136
+    },
+    {
+        "menuName": "Es Cendol",
+        "price": 120,
+        "quantity": 1,
+        "SalesId": 136
+    },
+    {
+        "menuName": "Gudeg",
+        "price": 85,
+        "quantity": 1,
+        "SalesId": 137
+    },
+    {
+        "menuName": "Kopi Hitam",
+        "price": 80,
+        "quantity": 1,
+        "SalesId": 137
+    },
+    {
+        "menuName": "Nasi Timbel",
+        "price": 100,
+        "quantity": 1,
+        "SalesId": 138
+    },
+    {
+        "menuName": "Es Kopi",
+        "price": 95,
+        "quantity": 1,
+        "SalesId": 138
+    },
+    {
+        "menuName": "Nasi Pecel",
+        "price": 105,
+        "quantity": 1,
+        "SalesId": 139
+    },
+    {
+        "menuName": "Air Kelapa",
+        "price": 100,
+        "quantity": 1,
+        "SalesId": 139
+    },
+    {
+        "menuName": "Tahu Tempe",
+        "price": 95,
+        "quantity": 1,
+        "SalesId": 140
+    },
+    {
+        "menuName": "Es Kopi Susu",
+        "price": 90,
+        "quantity": 1,
+        "SalesId": 140
+    },
+    {
+        "menuName": "Nasi Liwet",
+        "price": 120,
+        "quantity": 1,
+        "SalesId": 141
+    },
+    {
+        "menuName": "Es Dawet",
+        "price": 125,
+        "quantity": 1,
+        "SalesId": 141
+    },
+    {
+        "menuName": "Sate Kambing",
+        "price": 85,
+        "quantity": 1,
+        "SalesId": 142
+    },
+    {
+        "menuName": "Es Teh Manis",
+        "price": 90,
+        "quantity": 1,
+        "SalesId": 142
+    },
+    {
+        "menuName": "Soto Betawi",
+        "price": 110,
+        "quantity": 1,
+        "SalesId": 143
+    },
+    {
+        "menuName": "Es Teh Tawar",
+        "price": 110,
+        "quantity": 1,
+        "SalesId": 143
+    },
+    {
+        "menuName": "Nasi Rawon",
+        "price": 75,
+        "quantity": 1,
+        "SalesId": 144
+    },
+    {
+        "menuName": "Air Putih",
+        "price": 75,
+        "quantity": 1,
+        "SalesId": 144
+    },
+    {
+        "menuName": "Lontong Sayur",
+        "price": 105,
+        "quantity": 1,
+        "SalesId": 145
+    },
+    {
+        "menuName": "Teh Panas",
+        "price": 105,
+        "quantity": 1,
+        "SalesId": 145
+    },
+    {
+        "menuName": "Ketoprak",
+        "price": 115,
+        "quantity": 1,
+        "SalesId": 146
+    },
+    {
+        "menuName": "Teh Es",
+        "price": 115,
+        "quantity": 1,
+        "SalesId": 146
+    },
+    {
+        "menuName": "Sate Padang",
+        "price": 80,
+        "quantity": 1,
+        "SalesId": 147
+    },
+    {
+        "menuName": "Es Kelapa Muda",
+        "price": 80,
+        "quantity": 1,
+        "SalesId": 147
+    },
+    {
+        "menuName": "Nasi Kucing",
+        "price": 90,
+        "quantity": 1,
+        "SalesId": 148
+    },
+    {
+        "menuName": "Teh Hijau",
+        "price": 90,
+        "quantity": 1,
+        "SalesId": 148
+    },
+    {
+        "menuName": "Nasi Goreng Kambing",
+        "price": 95,
+        "quantity": 1,
+        "SalesId": 149
+    },
+    {
+        "menuName": "Teh Susu",
+        "price": 95,
+        "quantity": 1,
+        "SalesId": 149
+    },
+    {
+        "menuName": "Nasi Goreng Ayam",
+        "price": 100,
+        "quantity": 1,
+        "SalesId": 150
+    },
+    {
+        "menuName": "Teh Tarik Panas",
+        "price": 100,
+        "quantity": 1,
+        "SalesId": 150
+    }
+]

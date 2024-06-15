@@ -1,0 +1,427 @@
+.mainContentFrame {
+    display: flex;
+    flex-direction: column;
+    margin: 40px 40px;
+}
+
+.pageTitle {
+    color: #6D7386;
+    font-size: 18px;
+    display: flex;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.formTitle {
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+}
+
+.docStatusGroup {
+    display: flex;
+    flex-direction: row;
+    gap: -2px;
+    width: 100%;
+    align-items: end;
+}
+
+.topBorder {
+    border-bottom: 0.5px solid #b5b9c3;
+    width: 100%;
+    height: 1px;
+}
+
+.docStatusButton {
+    background-color: rgb(235, 235, 235);
+    padding: 10px 16px;
+    border: 0.5px solid #b5b9c3;
+    border-radius: 6px 6px 0px 0px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.docStatusButtonSelected {
+    background-color: white;
+    padding: 10px 16px;
+    border: 0.5px solid #b5b9c3;
+    border-bottom: 0px;
+    border-radius: 6px 6px 0px 0px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.contentFrame {
+    background-color: white;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-bottom: 0.5px solid #b5b9c3;
+    padding: 30px 35px;
+    border-radius: 0px 4px 4px 4px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Shadow effect */
+}
+
+.contentWithFooter {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+}
+
+.footer {
+    background-color: white;
+    padding: 15px 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    gap: 20px;
+}
+
+.pageAction {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: end;
+}
+
+.createButton {
+    font-size: 14px;
+    color: green;
+    border: 1px solid green;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.smallDelete {
+    font-size: 12px;
+    color: red;
+    border: 1px solid red;
+    padding: 10px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.processButton {
+    font-size: 14px;
+    color: orange;
+    border: 1px solid orange;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.horizontalButtonGroup {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 120px;
+    gap: 10px;
+    margin-left: 10px;
+}
+
+.cancelButton {
+    font-size: 14px;
+    color: red;
+    border: 1px solid red;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.viewButton {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 12px;
+    color: #6D7386;
+    border: 1px solid #6D7386;
+    padding: 10px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.smallDelete:hover {
+    color: white;
+    background-color: red;
+}
+
+.viewButton:hover {
+    color: white;
+    border: 1px solid #6D7386;
+    background-color: #6D7386;
+}
+
+.deleteButton {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 12px;
+    color: red;
+    border: 1px solid red;
+    padding: 10px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.deleteButton:hover {
+    color: white;
+    border: 1px solid red;
+    background-color: red;
+}
+
+.createButton:hover {
+    color: white;
+    border: 1px solid white;
+    background-color: green;
+}
+
+.processButton:hover {
+    color: white;
+    border: 1px solid white;
+    background-color: orange;
+}
+
+.cancelButton:hover {
+    color: white;
+    border: 1px solid white;
+    background-color: red;
+}
+
+thead {
+    background-color: #6D7386;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+td {
+    padding: 8px 16px;
+    margin: 0px;
+}
+
+.formLabels {
+    font-size: 15px;
+    color: black;
+}
+
+.formInput {
+    background-color: aliceblue;
+    padding: 8px 18px;
+    width: 200px;
+    border: 2px solid skyblue;
+    border-radius: 8px;
+}
+
+.formInput:focus {
+    background-color: skyblue;
+    border: 2px solid gray;
+}
+
+.formGeneral {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.generalInformations {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid lightgray;
+}
+
+.formLabel {
+    width: 100px;
+}
+
+.formLabel2 {
+    width: 200px;
+}
+
+.select2 {
+    background-color: aliceblue;
+    padding: 7px 14px;
+    width: 279.6px;
+    border: 1px solid skyblue;
+    border-radius: 4px;
+}
+
+.formInput2 {
+    background-color: aliceblue;
+    padding: 7px 14px;
+    width: 250px;
+    border: 1px solid skyblue;
+    border-radius: 4px;
+}
+
+.formInput2:read-only {
+    padding: 7px 14px;
+    border: 1px solid skyblue;
+    border-radius: 4px;
+    width: 250px;
+    background-color: rgb(236, 236, 236);
+}
+
+.inputGroup2 {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: start;
+    align-items: center;
+}
+
+.inputGroup3 {
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: start;
+    align-items: center;
+}
+
+.bigTitle {
+    font-size: 35px;
+    color: black;
+    font-weight: 500;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-bottom: 1px solid gray;
+}
+
+.dateFilter {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.verticalGroup {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.pageAction2 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.getButton {
+    font-size: 14px;
+    color: green;
+    border: 1px solid green;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+}
+
+.getButton:hover {
+    color: white;
+    border: 1px solid white;
+    background-color: green;
+}
+
+.date-input {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    color: #333;
+    transition: border-color 0.3s, box-shadow 0.3s;
+    width: 200px;
+    max-width: 300px;
+}
+
+.date-input:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    outline: none;
+}
+
+.date-input::-webkit-calendar-picker-indicator {
+    cursor: pointer;
+}
+
+.seperator1 {
+    width: 100%;
+    border-bottom: 0.3px solid #a3a6af;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.paragraph {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    gap: 15px;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.paragraphTitle {
+    font-size: 20px;
+}
+
+.paragraphContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 900px;
+    gap: 40px;
+    margin-bottom: 30px;
+}
+
+.noData {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    font-size: 16px;
+    line-height: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(228, 148, 0);
+}
+
+.loadingContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

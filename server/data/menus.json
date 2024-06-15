@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Nasi Goreng",
+        "price": 42000,
+        "imgUrl": "https://asset.kompas.com/crops/vmDriSafVxhO05gc2dSOXby53Mc=/13x7:700x465/750x500/data/photo/2021/09/24/614dc6865eb24.jpg",
+        "updatedBy": "Admin_dev"
+    },
+    {
+        "name": "Indomie Rebus",
+        "price": 18000,
+        "imgUrl": "https://asset.kompas.com/crops/HIamUWpszt2wsV2KspqPn4S5w-o=/0x442:667x886/750x500/data/photo/2021/05/22/60a880ee66dfe.jpg",
+        "updatedBy": "Admin_dev"
+    },
+    {
+        "name": "Kangkung Hotplate",
+        "price": 38000,
+        "imgUrl": "https://img.kurio.network/T2NIofqh7b59FnMm1e3zf3zqPmI=/1200x900/filters:quality(80)/https://kurio-img.kurioapps.com/21/04/16/04deed77-c458-42b2-a2af-6f10b956248f.jpe",
+        "updatedBy": "Admin_dev"
+    },
+    {
+        "name": "Nasi Putih",
+        "price": 5000,
+        "imgUrl": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/1/30/0e8d072a-8cfb-4e91-8143-ffc616675f5b.jpg",
+        "updatedBy": "Admin_dev"
+    },
+    {
+        "name": "Gurame Asam Manis",
+        "price": 29000,
+        "imgUrl": "https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/05/colorful-921902_1920.jpg",
+        "updatedBy": "Admin_dev"
+    },
+    {
+        "name": "Tahu Goreng Sambal",
+        "price": 11000,
+        "imgUrl": "https://cdn1-production-images-kly.akamaized.net/6WiIPw5B-6JGNLf36u9nhZ49iKU=/0x0:5616x3165/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2901423/original/005536300_1567581573-tips_tahu_HL.jpg",
+        "updatedBy": "Admin_dev"
+    }
+]

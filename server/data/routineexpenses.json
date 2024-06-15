@@ -1,0 +1,194 @@
+[
+    {
+        "date": "2024-01-01",
+        "amount": 552,
+        "docStatus": "Posted",
+        "description": "Monthly billing for water",
+        "TypeId": 1,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-01-01",
+        "amount": 572,
+        "docStatus": "Posted",
+        "description": "Monthly billing for electricity",
+        "TypeId": 2,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-01-01",
+        "amount": 428,
+        "docStatus": "Posted",
+        "description": "Monthly billing for internet",
+        "TypeId": 3,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-01-01",
+        "amount": 961,
+        "docStatus": "Posted",
+        "description": "Monthly billing for maintenance",
+        "TypeId": 4,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-01-31",
+        "amount": 350,
+        "docStatus": "Posted",
+        "description": "Monthly billing for water",
+        "TypeId": 1,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-01-31",
+        "amount": 328,
+        "docStatus": "Posted",
+        "description": "Monthly billing for electricity",
+        "TypeId": 2,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-01-31",
+        "amount": 945,
+        "docStatus": "Posted",
+        "description": "Monthly billing for internet",
+        "TypeId": 3,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-01-31",
+        "amount": 732,
+        "docStatus": "Posted",
+        "description": "Monthly billing for maintenance",
+        "TypeId": 4,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-03-01",
+        "amount": 122,
+        "docStatus": "Posted",
+        "description": "Monthly billing for water",
+        "TypeId": 1,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-03-01",
+        "amount": 713,
+        "docStatus": "Posted",
+        "description": "Monthly billing for electricity",
+        "TypeId": 2,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-03-01",
+        "amount": 776,
+        "docStatus": "Posted",
+        "description": "Monthly billing for internet",
+        "TypeId": 3,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-03-01",
+        "amount": 589,
+        "docStatus": "Posted",
+        "description": "Monthly billing for maintenance",
+        "TypeId": 4,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-03-31",
+        "amount": 325,
+        "docStatus": "Posted",
+        "description": "Monthly billing for water",
+        "TypeId": 1,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-03-31",
+        "amount": 893,
+        "docStatus": "Posted",
+        "description": "Monthly billing for electricity",
+        "TypeId": 2,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-03-31",
+        "amount": 401,
+        "docStatus": "Posted",
+        "description": "Monthly billing for internet",
+        "TypeId": 3,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-03-31",
+        "amount": 348,
+        "docStatus": "Posted",
+        "description": "Monthly billing for maintenance",
+        "TypeId": 4,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-04-30",
+        "amount": 573,
+        "docStatus": "Posted",
+        "description": "Monthly billing for water",
+        "TypeId": 1,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-04-30",
+        "amount": 693,
+        "docStatus": "Posted",
+        "description": "Monthly billing for electricity",
+        "TypeId": 2,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-04-30",
+        "amount": 878,
+        "docStatus": "Posted",
+        "description": "Monthly billing for internet",
+        "TypeId": 3,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-04-30",
+        "amount": 944,
+        "docStatus": "Posted",
+        "description": "Monthly billing for maintenance",
+        "TypeId": 4,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-05-30",
+        "amount": 461,
+        "docStatus": "Posted",
+        "description": "Monthly billing for water",
+        "TypeId": 1,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-05-30",
+        "amount": 320,
+        "docStatus": "Posted",
+        "description": "Monthly billing for electricity",
+        "TypeId": 2,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-05-30",
+        "amount": 258,
+        "docStatus": "Posted",
+        "description": "Monthly billing for internet",
+        "TypeId": 3,
+        "createdBy": "Admin_dev"
+    },
+    {
+        "date": "2024-05-30",
+        "amount": 714,
+        "docStatus": "Posted",
+        "description": "Monthly billing for maintenance",
+        "TypeId": 4,
+        "createdBy": "Admin_dev"
+    }
+]

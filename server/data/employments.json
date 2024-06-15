@@ -1,0 +1,42 @@
+[
+    {
+        "employeeName": "Admin_dev",
+        "employmentType": "Owner",
+        "joinDate": "2024-01-01",
+        "salary": 0,
+        "bank": "BCA",
+        "accountNumber": "12001291",
+        "UserId": 1,
+        "JobtitleId": 1
+    },
+    {
+        "employeeName": "John Wick",
+        "employmentType": "Employee",
+        "joinDate": "2024-05-30",
+        "salary": 5600000,
+        "bank": "BCA",
+        "accountNumber": "22330209",
+        "UserId": 2,
+        "JobtitleId": 5
+    },
+    {
+        "employeeName": "Gerard Butler",
+        "employmentType": "Contract",
+        "joinDate": "2024-04-15",
+        "salary": 6900000,
+        "bank": "BCA",
+        "accountNumber": "22200201",
+        "UserId": 3,
+        "JobtitleId": 4
+    },
+    {
+        "employeeName": "Jane Doe",
+        "employmentType": "Employee",
+        "joinDate": "2024-04-15",
+        "salary": 9300000,
+        "bank": "BCA",
+        "accountNumber": "22200201",
+        "UserId": 4,
+        "JobtitleId": 3
+    }
+]
